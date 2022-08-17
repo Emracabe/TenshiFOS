@@ -3,10 +3,10 @@
 ### Author: Emmar Caber
 ### Section: BSIT 1A
 	
-#Project Title: TENSHI Food Ordering System
-#Project Published: July 9, 2021
+# Project Title: TENSHI Food Ordering System
+# Project Published: July 9, 2021
 	
-Project Description: 
+# Project Description: 
 		A C++ Food Ordering System which allows the User to order the following foods:
 			* Spaghetti
 			* Carbonara
