@@ -3,14 +3,14 @@
 ## Author: Emmar Caber	
 ## Project Published: July 9, 2021
 	
-# Project Description: 
-		A C++ Food Ordering System which allows the User to order the following foods:
-			* Spaghetti
-			* Carbonara
-			* Pansit Palabok
-			* Fried Chicken
-			* Sinigang
-			* Drinks
+## Project Description: 
+### A C++ Food Ordering System which allows the User to order the following foods:
+	- Spaghetti
+	- Carbonara
+	- Pansit Palabok
+	- Fried Chicken
+	- Sinigang
+	- Drinks
 		
 C++ Language Concepts Used:
 		* Variable and Data Types
