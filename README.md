@@ -1,7 +1,6 @@
 # TENSHI Food Ordering System
 
 ## Author: Emmar Caber	
-## Project Title:
 ## Project Published: July 9, 2021
 	
 # Project Description: 
