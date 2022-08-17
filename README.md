@@ -1,7 +1,6 @@
 # TENSHI Food Ordering System
 
-## Author: Emmar Caber	
-## Project Published: July 9, 2021
+## Author: Emmar Caber
 	
 ### Project Description: A C++ Food Ordering System which allows the User to order the following foods:
 	- Spaghetti
