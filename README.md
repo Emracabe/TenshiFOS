@@ -1,10 +1,8 @@
-# TenshiFOS
+# TENSHI Food Ordering System
 
-### Author: Emmar Caber
-### Section: BSIT 1A
-	
-# Project Title: TENSHI Food Ordering System
-# Project Published: July 9, 2021
+## Author: Emmar Caber	
+## Project Title:
+## Project Published: July 9, 2021
 	
 # Project Description: 
 		A C++ Food Ordering System which allows the User to order the following foods:
