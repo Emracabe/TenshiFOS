@@ -1,8 +1,7 @@
 # TENSHI Food Ordering System
 
-## Author: Emmar Caber
 	
-### Project Description: A C++ Food Ordering System which allows the User to order the following foods:
+## A C++ Food Ordering System which allows the User to order the following foods:
 	- Spaghetti
 	- Carbonara
 	- Pansit Palabok
@@ -10,7 +9,7 @@
 	- Sinigang
 	- Drinks
 		
-### C++ Language Concepts Used:
+## C++ Language Concepts Used:
 	- Variable and Data Types
 	- Input/Output
 	- Conditional Statements (IF statements, Switch-case statements)
