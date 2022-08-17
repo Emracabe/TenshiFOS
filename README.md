@@ -1,7 +1,7 @@
 # TenshiFOS
 
-#Author: Emmar Caber
-#Section: BSIT 1A
+###Author: Emmar Caber
+###Section: BSIT 1A
 	
 #Project Title: TENSHI Food Ordering System
 #Project Published: July 9, 2021
