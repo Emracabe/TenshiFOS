@@ -18,3 +18,12 @@
 	- Preprocessors
 	- Class and Objects 
 	- STL (Vectors and Algorithm Component)
+	
+## How to Run the Project
+1. __Clone__ the repository.
+
+	```
+	git clone https://github.com/emmarcaber/TenshiFOS.git
+	```
+2. Open the *TenshiFOS.cpp* in your selected IDE like CodeBlocks or Dev C++.
+3. Run the project.
